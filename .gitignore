@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+JavaGitP1P.iml
 
 ### Eclipse ###
 .apt_generated
